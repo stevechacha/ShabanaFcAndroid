@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ShabanaFcAndroid</string>
+    <string name="fixtures">Fixtures</string>
+    <string name="results">Results</string>
+    <string name="table">Table</string>
+    <string name="players">Players</string>
+    <string name="staff">Staff</string>
+
+
+
+    <plurals name="numberOfMinutesOfEpisode">
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d mins</item>
+    </plurals>
+    <plurals name="numberOfHoursOfEpisode">
+        <item quantity="one">%d hr</item>
+        <item quantity="other">%d hrs</item>
+    </plurals>
+</resources>

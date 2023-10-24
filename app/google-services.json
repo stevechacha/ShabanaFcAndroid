@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133131643451",
+    "project_id": "shabanafcandroid",
+    "storage_bucket": "shabanafcandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133131643451:android:c58f09bf3a0bd11e06ca1e",
+        "android_client_info": {
+          "package_name": "com.fcshabana.shabanafcandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133131643451-lnpid2ocino0m603nr4htggdna1prb4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtM0ZVFiNpPNZtiXrQqjNKr870ZIpXNQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133131643451-lnpid2ocino0m603nr4htggdna1prb4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

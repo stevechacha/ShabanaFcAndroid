@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/shabana_fc_logo.xml -->
+
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- S -->
+    <path
+        android:pathData="M15,10 L65,10 Q80,10 80,25 L80,40 Q80,55 65,55 L35,55"
+        android:fillColor="#000000" />
+
+    <!-- H -->
+    <path
+        android:pathData="M15,45 L35,45 L35,90 L65,90 L65,45 L85,45"
+        android:fillColor="#000000" />
+
+    <!-- A -->
+    <path
+        android:pathData="M20,45 L40,45 L50,70 L60,45 L80,45 L65,90 L35,90"
+        android:fillColor="#000000" />
+
+    <!-- B -->
+    <path
+        android:pathData="M20,45 L35,45 Q40,45 40,50 L40,55 Q40,60 35,60 L20,60 L20,45 L35,45"
+        android:fillColor="#000000" />
+
+    <!-- N -->
+    <path
+        android:pathData="M65,45 L80,45 L80,60 Q80,65 75,65 L65,65"
+        android:fillColor="#000000" />
+
+    <!-- F -->
+    <path
+        android:pathData="M20,10 L65,10 Q80,10 80,25 L80,40 Q80,45 75,45 L35,45"
+        android:fillColor="#000000" />
+
+    <!-- C -->
+    <path
+        android:pathData="M20,60 L20,85 L35,85 Q40,85 40,80 L40,75 Q40,70 35,70 L20,70"
+        android:fillColor="#000000" />
+
+    <!-- Space -->
+    <path
+        android:pathData="M85,45 L90,45"
+        android:fillColor="#000000" />
+</vector>
+
+
